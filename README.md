@@ -40,4 +40,4 @@ where <username> is your Linux user name. You will need to log out and log in ag
 
 
 Thank you.
-Have a great day.
+Have a great day

@@ -11,16 +11,26 @@ The necessary circuit diagram and codes are available here. To make the code run
 For more info please visit : https://www.arduino.cc/en/software/
 
 For linux users:
+
 GUI:
+
 -Download the necessary .tar.gz file
+
 -Extract the zip and install the .deb file
+
 Command Line:
+
 -Extract the package
+
 -cd to Arduino folder
+
 -Install the bash script by typing ./install.sh
 
 Please Read...
-It might happen that when you upload a sketch - after you have selected your board and the serial port -, you get an error Error opening serial port ... If you get this error, you need to set serial port permission.
+
+It might happen that when you upload a sketch - after you have selected your board and the serial port -, you get an error Error opening serial port ...
+
+If you get this error, you need to set serial port permission.
 
 Open Terminal and type:
 
